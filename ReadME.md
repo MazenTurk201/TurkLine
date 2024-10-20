@@ -17,10 +17,10 @@ To run The tool just write [`tl`](https://github.com/MazenTurk201/TurkLine)
 
 ## Download
  ```bash
- git clone https://github.com/MazenTurk201/MT
+ git clone https://github.com/MazenTurk201/TurkLine
  ```
  ```
- cd MT
+ cd TurkLine
  ```
  ```
  chmod +x *
@@ -28,33 +28,8 @@ To run The tool just write [`tl`](https://github.com/MazenTurk201/TurkLine)
 
 ## Run
  ```bash
- ./MT.sh or "turk"
+ ./install.sh or "tl"
  ```
-## Syntax
- ```bash
- cd MT
-
- -h       # for Help. 
- -p       # To continue Exploiting Android.
- -a       # for ADB Shell.
- -w       # To continue Exploiting Windows.
-```
-
-## Notic
-```
-The Tools Use:
-
-  [+] Net-Tools
-  [+] Apache2-bin
-  [+] MetaSploit-Framework
-  [+] Beef
-  [+] Scrcpy
-  [+] Nmap
-  [+] Android Debug Bridge (ADB)
-  [+] Zenity
-  [+] 
-  [+]  
-```
 
  # To report any problem
 
