@@ -8,9 +8,9 @@
 
 ## Check Bin ##
     check_bin(){
-        which tl > /dev/null 2>&1
+        which tll > /dev/null 2>&1
 		    if [ "$?" -eq "1" ]; then
-		    sudo ln -s $path/install.sh /usr/local/bin/tl
+		    sudo ln -s $path/install.sh /usr/local/bin/tll
 		    else {
 		       which
 		    }
@@ -20,9 +20,9 @@
 
 ## Check Bin Termux ##
     check_bin_termux(){
-        which tl > /dev/null 2>&1
+        which tll > /dev/null 2>&1
 		    if [ "$?" -eq "1" ]; then
-		    ln -s $path/install.sh $PREFIX/bin/tl
+		    ln -s $path/install.sh $PREFIX/bin/tll
 		    else {
 		       which
 		    }
@@ -33,9 +33,9 @@
 ## Help ##
 	help(){
 		echo "usage:
-	tl                     # Help (tl -h)
-	tl example.txt         # to know how many lines in file
-	tl example.txt 3       # to display line number
+	tll                     # Help (tll -h)
+	tll example.txt         # to know how many lines in file
+	tll example.txt 3       # to display line number
 		"
 		}
 ##########
@@ -54,8 +54,8 @@
 			done
 ############
 
-## TL ##
-	tl(){
+## TLL ##
+	tll(){
 	if [ -f '/etc/arch-release' ]; then
 	    check_bin
 	else
@@ -69,7 +69,7 @@
 ########
 
 ## Tool ##
-	tl
+	tll
 	if [ -z $1 ];then
 	help
 	else {
