@@ -23,9 +23,6 @@
       which tl > /dev/null 2>&1
 		    if [ "$?" -eq "1" ]; then
 		    ln -s $path/install.sh $PREFIX/bin/tl
-		    else {
-		       which
-		    }
 		    fi
             }
 ######################
