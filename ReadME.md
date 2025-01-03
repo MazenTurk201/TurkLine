@@ -4,7 +4,7 @@
 
 # About
 
-To run The tool just write [`tll`](https://github.com/MazenTurk201/TurkLine)
+To run The tool just write [`tl`](https://github.com/MazenTurk201/TurkLine)
 
 
 <!-- My friend, I am not responsible for any misuse of the tool or abuse, and this is illegal. The goal of the tool is Android penetration testing for beginners in the field of "Pentration Testing". Thank you. -->
@@ -28,13 +28,12 @@ To run The tool just write [`tll`](https://github.com/MazenTurk201/TurkLine)
 
 ## Run
  ```bash
- ./install.sh or "tll"
+ ./install.sh or "tl"
  ```
 
  # To report any problem
 
- [-] [*WhatsApp*](https://wa.me/+201092130013?text=Hi+Turk)
 
- [-] [*Instagram*](https://www.instagram.com/mazenturkk)
+ [-] [*Bitly*](https://bit.ly/m/MazenTURK)
 
  [-] [*Gmail*](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSKkVTRnqhcdnCKGrmdBNQfSLQrcjrDrrhRXjGpJlNsGLRjBPKpWTHBwbfpvzphhWZzprdvh)
